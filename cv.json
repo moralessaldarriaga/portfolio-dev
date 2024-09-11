@@ -1,66 +1,111 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Aldair Morales Saldarriaga",
+    "label": "Desarrollador Frontend | Amante de los videojuegos | Músico aficionado a la batería",
+    "image": "/me-aldo.webp",
+    "email": "morales.saldarriaga@gmail.com",
+    "phone": "+51 970841489",
+    "url": "#",
+    "summary": "Soy un desarrollador frontend apasionado por crear interfaces de usuario atractivas y funcionales.  Mi experiencia se centra en el uso de JavaScript, React, CSS, y SASS para desarrollar aplicaciones web modernas.  Me gusta explorar nuevas herramientas y metodologías, como Vite y NPM, para optimizar el flujo de trabajo y mejorar la eficiencia del desarrollo. Además de mi enfoque en el código, tengo un fuerte interés en el diseño UI/UX, lo que me permite aportar una perspectiva integral al desarrollo de proyectos, asegurando que cada producto no solo funcione bien, sino que también ofrezca una experiencia de usuario fluida y agradable. Cuando no estoy programando, disfruto de mis dos pasiones: tocar la batería y jugar videojuegos. Estas actividades me permiten desconectar, mantenerme creativo y seguir aprendiendo en diferentes áreas.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "city": "VILLA MARÍA DEL TRIUNFO - LIMA",
+      "countryCode": "PE",
+      "region": "PERÚ"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "morales-saldarriaga-dev",
+        "url": "https://linkedin.com/in/morales-saldarriaga-dev"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "moralessaldarriaga",
+        "url": "https://github.com/moralessaldarriaga"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "LABSOURCING",
+      "position": "PARTNER",
+      "url": "#",
+      "startDate": "2020-01-04",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Partner en Desarrollo de Apps, Desarrollo Web, servicios de UX & UI design y Outsourcing IT",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "VALOR - SOCIOS DE MARCAS",
+      "position": "WEB UI DEVELOPER",
+      "url": "#",
+      "startDate": "2021-01-02",
+      "endDate": "2024-01-08",
+      "summary": "Encargado del Desarrollo de Landing Pages usando ViteJS, JavaScript, Jquery, NPM, SCSS, CSS, ReactJS para Marcas como Pacífico Business School, Plaza República y Hayduk",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "BURNS - THE AGENCY LIMA",
+      "position": "FRONTEND DEVELOPER",
+      "startDate": "2017-01-09",
+      "endDate": "2020-01-04",
+      "summary": "Encargado del Desarrollo de Landing Pages utilizando Bootstrap, Gulp, NPM, Node, JavaScript, Jquery, SCSS, Stylus, CSS, Wepback y de la implementación de la parte UI dentro de Aplicaciones Web con Laravel y Ruby on Rails para Marcas como Laiva, Samsung, Entel, Mary Kay, Vizzio." ,
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TRANSFORMACIÓN DIGITAL",
+      "position": "FRONTEND DEVELOPER",
+      "startDate": "2017-01-03",
+      "endDate": "2017-01-09",
+      "summary": "Encargado del desarrollo de páginas web con JavaScript, NPM, Node, SASS, STYLUS, CSS, Jquery, Gulp, Webpack, Bootstrap, Material Design y de la implementación de la parte UI en Aplicaciones Web con Laravel, Zend y CodeIgniter" ,
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "FRACTAL",
+      "position": "WEB UI DEVELOPER",
+      "startDate": "2016-01-09",
+      "endDate": "2017-01-03",
+      "summary": "Encargado del desarrollo e implementación de páginas web internas utilizando Grunt, JavaScript, SASS, CSS, Jquery, Bootstrap y Material Design y el consumo de API's para aplicaciones web de datos estadísticos del Banco Banbif" ,
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TISMART",
+      "position": "FRONTEND DEVELOPER JR",
+      "startDate": "2016-01-04",
+      "endDate": "2016-01-09",
+      "summary": "Encargado del desarrollo e implementación de páginas web internas utilizando JavaScript, CSS, Jquery, Bootstrap dentro de Frameworks como MVC .NET y Java Spring" ,
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "WALKANT",
+      "position": "FULLSTACK DEVELOPER JR",
+      "startDate": "2015-01-04",
+      "endDate": "2016-01-09",
+      "summary": "Encargado del desarrollo de aplicaciones web usando el Framework Ruby on Rails con JavaScript y CSS para la StartUp Walkant" ,
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TLS TOULOUSE LAUTREC",
+      "position": "WEB DEVELOPER JR",
+      "startDate": "2014-01-08",
+      "endDate": "2015-01-04",
+      "summary": "Encargado de implementar formularios y modificar páginas dentro la plataforma Wordpress para la web de TLS Toulouse Lautrec." ,
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +123,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad Autónoma del Perú",
+    "url": "#",
+    "area": "Ingeniero de Sistemas",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2011-01-01",
+    "endDate": "2016-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -124,6 +169,13 @@
       ]
     },
     {
+      "name": "SASS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
@@ -131,31 +183,10 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
+      "name": "Jquery",
+      "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Desarrollo Web", "Frontend"
       ]
     },
     {
@@ -173,17 +204,17 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "UI"
       ]
     }
   ],
@@ -210,66 +241,26 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Moderna Vivienda",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Experiencia en el rubro inmobiliario desarrollando urbanizaciones de calidad para las familias peruanas.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "JavaScript",
+        "Laravel"
       ],
-      "url": "https://mars.codes"
+      "github": "#",
+      "url": "https://modernavivienda.com/"
     },
     {
-      "name": "AdventJS",
+      "name": "CoastWards Corona",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Campaña que ayuda a los científicos a recopilar datos del litoral para estudiar los efectos del cambio climático en las playas, a través de fotografías tomadas por los usuarios.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "React",
+        "JavaScript"
       ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "github": "#",
+      "url": "http://www.coastwards.org/"
     }
   ]
 }
