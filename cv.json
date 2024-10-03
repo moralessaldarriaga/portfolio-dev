@@ -241,6 +241,28 @@
   }],
   "projects": [
     {
+      "name": "La buena nutrición",
+      "isActive": true,
+      "description": "Campaña de eventos y cursos online para la nutrición de la vida, dictado por la Fundación La Buena Nutrición de Leche Gloria.",
+      "highlights": [
+        "JavaScript",
+        "Laravel"
+      ],
+      "github": "#",
+      "url": "https://eventos.labuenanutricion.com/"
+    },
+    {
+      "name": "Mundo Gloria",
+      "isActive": true,
+      "description": "El Mundo Gloria es una experiencia extraordinaria para disfrutar en familia. Aquí podrás aprender sobre el fascinante mundo de los lácteos y por qué son tan importantes para la vida de todos.",
+      "highlights": [
+        "JavaScript",
+        "Laravel"
+      ],
+      "github": "#",
+      "url": "https://mundogloria.pe/"
+    },
+    {
       "name": "Moderna Vivienda",
       "isActive": true,
       "description": "Experiencia en el rubro inmobiliario desarrollando urbanizaciones de calidad para las familias peruanas.",
