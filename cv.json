@@ -6,7 +6,7 @@
     "email": "morales.saldarriaga@gmail.com",
     "phone": "+51 970841489",
     "url": "#",
-    "summary": "Soy un desarrollador frontend apasionado por crear interfaces de usuario atractivas y funcionales.  Mi experiencia se centra en el uso de JavaScript, React, CSS, y SASS para desarrollar aplicaciones web modernas.  Me gusta explorar nuevas herramientas y metodologías, como Vite y NPM, para optimizar el flujo de trabajo y mejorar la eficiencia del desarrollo. Además de mi enfoque en el código, tengo un fuerte interés en el diseño UI/UX, lo que me permite aportar una perspectiva integral al desarrollo de proyectos, asegurando que cada producto no solo funcione bien, sino que también ofrezca una experiencia de usuario fluida y agradable. Cuando no estoy programando, disfruto de mis dos pasiones: tocar la batería y jugar videojuegos. Estas actividades me permiten desconectar, mantenerme creativo y seguir aprendiendo en diferentes áreas.",
+    "summary": "Soy un desarrollador frontend apasionado por crear interfaces de usuario atractivas y funcionales.  Mi experiencia se centra en el uso de JavaScript, React, CSS, y HTML para desarrollar aplicaciones web modernas.  Me gusta explorar nuevas herramientas y metodologías, como Vite y Astro, para optimizar el flujo de trabajo y mejorar la eficiencia del desarrollo. Además de mi enfoque en el código, tengo un fuerte interés en el diseño UI/UX, lo que me permite aportar una perspectiva integral al desarrollo de proyectos, asegurando que cada producto no solo funcione bien, sino que también ofrezca una experiencia de usuario fluida y agradable. Cuando no estoy programando, disfruto de mis dos pasiones: tocar la batería y jugar videojuegos. Estas actividades me permiten desconectar, mantenerme creativo y seguir aprendiendo en diferentes áreas.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -56,56 +56,6 @@
       "startDate": "2017-01-09",
       "endDate": "2020-01-04",
       "summary": "Encargado del Desarrollo de Landing Pages utilizando Bootstrap, Gulp, NPM, Node, JavaScript, Jquery, SCSS, Stylus, CSS, Wepback y de la implementación de la parte UI dentro de Aplicaciones Web con Laravel y Ruby on Rails para Marcas como Laiva, Samsung, Entel, Mary Kay, Vizzio." ,
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "TRANSFORMACIÓN DIGITAL",
-      "position": "FRONTEND DEVELOPER",
-      "startDate": "2017-01-03",
-      "endDate": "2017-01-09",
-      "summary": "Encargado del desarrollo de páginas web con JavaScript, NPM, Node, SASS, STYLUS, CSS, Jquery, Gulp, Webpack, Bootstrap, Material Design y de la implementación de la parte UI en Aplicaciones Web con Laravel, Zend y CodeIgniter" ,
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "FRACTAL",
-      "position": "WEB UI DEVELOPER",
-      "startDate": "2016-01-09",
-      "endDate": "2017-01-03",
-      "summary": "Encargado del desarrollo e implementación de páginas web internas utilizando Grunt, JavaScript, SASS, CSS, Jquery, Bootstrap y Material Design y el consumo de API's para aplicaciones web de datos estadísticos del Banco Banbif" ,
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "TISMART",
-      "position": "FRONTEND DEVELOPER JR",
-      "startDate": "2016-01-04",
-      "endDate": "2016-01-09",
-      "summary": "Encargado del desarrollo e implementación de páginas web internas utilizando JavaScript, CSS, Jquery, Bootstrap dentro de Frameworks como MVC .NET y Java Spring" ,
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "WALKANT",
-      "position": "FULLSTACK DEVELOPER JR",
-      "startDate": "2015-01-04",
-      "endDate": "2016-01-09",
-      "summary": "Encargado del desarrollo de aplicaciones web usando el Framework Ruby on Rails con JavaScript y CSS para la StartUp Walkant" ,
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "TLS TOULOUSE LAUTREC",
-      "position": "WEB DEVELOPER JR",
-      "startDate": "2014-01-08",
-      "endDate": "2015-01-04",
-      "summary": "Encargado de implementar formularios y modificar páginas dentro la plataforma Wordpress para la web de TLS Toulouse Lautrec." ,
       "highlights": [
         "Started the company"
       ]
