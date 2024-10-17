@@ -247,6 +247,17 @@
       ],
       "github": "#",
       "url": "http://www.coastwards.org/"
+    },
+    {
+      "name": "Cementos APU",
+      "isActive": true,
+      "description": "Landing informativo para la campaña de Cementos APU",
+      "highlights": [
+        "Laravel",
+        "JavaScript"
+      ],
+      "github": "#",
+      "url": "https://cementoapu.com/"
     }
   ]
 }
