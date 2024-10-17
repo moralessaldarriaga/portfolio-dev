@@ -6,7 +6,7 @@
     "email": "morales.saldarriaga@gmail.com",
     "phone": "+51 970841489",
     "url": "#",
-    "summary": "Soy un desarrollador frontend apasionado por crear interfaces de usuario atractivas y funcionales.  Mi experiencia se centra en el uso de JavaScript, React, CSS, y HTML para desarrollar aplicaciones web modernas.  Me gusta explorar nuevas herramientas y metodologías, como Vite y Astro, para optimizar el flujo de trabajo y mejorar la eficiencia del desarrollo. Además de mi enfoque en el código, tengo un fuerte interés en el diseño UI/UX, lo que me permite aportar una perspectiva integral al desarrollo de proyectos, asegurando que cada producto no solo funcione bien, sino que también ofrezca una experiencia de usuario fluida y agradable. Cuando no estoy programando, disfruto de mis dos pasiones: tocar la batería y jugar videojuegos. Estas actividades me permiten desconectar, mantenerme creativo y seguir aprendiendo en diferentes áreas.",
+    "summary": "Soy un desarrollador front-end apasionado por crear interfaces de usuario atractivas y funcionales.  Mi experiencia se centra en el uso de JavaScript, React, CSS, y HTML para desarrollar aplicaciones web modernas.  Me gusta explorar nuevas herramientas y metodologías, para optimizar el flujo de trabajo y mejorar la eficiencia del desarrollo. Además de mi enfoque en el código, tengo un fuerte interés en el diseño UI/UX, lo que me permite aportar una perspectiva integral al desarrollo de proyectos, asegurando que cada producto no solo funcione bien, sino que también ofrezca una experiencia de usuario fluida y agradable. Cuando no estoy programando, disfruto de mis dos pasiones: tocar la batería y jugar videojuegos. Estas actividades me permiten desconectar, mantenerme creativo y seguir aprendiendo en diferentes áreas.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -30,7 +30,7 @@
   "work": [
     {
       "name": "LABSOURCING",
-      "position": "PARTNER",
+      "position": "Desarrollador Front-end Partner",
       "url": "#",
       "startDate": "2020-01-04",
       "endDate": null,
@@ -41,21 +41,21 @@
     },
     {
       "name": "VALOR - SOCIOS DE MARCAS",
-      "position": "WEB UI DEVELOPER",
+      "position": "Desarrollador Front-end",
       "url": "#",
       "startDate": "2021-01-02",
       "endDate": "2024-01-08",
-      "summary": "Encargado del Desarrollo de Landing Pages usando ViteJS, JavaScript, Jquery, NPM, SCSS, CSS, ReactJS para Marcas como Pacífico Business School, Plaza República y Hayduk",
+      "summary": "- Encargado de implementar el desarrollo de landings pages utilizando Vite, JavaScript, React, Tailwind CSS y Bootstrap en campañas para marcas como Pacífico Business School, Plaza República y Hayduk.\n\n -Responsable de optimizar el rendimiento correcto de las landings pages.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "BURNS - THE AGENCY LIMA",
-      "position": "FRONTEND DEVELOPER",
+      "position": "Desarrollador Front-end",
       "startDate": "2017-01-09",
       "endDate": "2020-01-04",
-      "summary": "Encargado del Desarrollo de Landing Pages utilizando Bootstrap, Gulp, NPM, Node, JavaScript, Jquery, SCSS, Stylus, CSS, Wepback y de la implementación de la parte UI dentro de Aplicaciones Web con Laravel y Ruby on Rails para Marcas como Laiva, Samsung, Entel, Mary Kay, Vizzio." ,
+      "summary": "Encargado de implementar el desarrollo de landings pages utilizando Webpack, JavaScript, Jquery y Bootstrap en campañas para marcas como Laive, Samsung, Entel, Mary Kay, Vizzio, Banbif. -Responsable de integrar los servicios API del back-end con el front-end." ,
       "highlights": [
         "Started the company"
       ]
@@ -75,10 +75,10 @@
   "education": [{
     "institution": "Universidad Autónoma del Perú",
     "url": "#",
-    "area": "Ingeniero de Sistemas",
+    "area": "Ingeniería de Sistemas",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2016-01-01",
+    "startDate": "2012-01-01",
+    "endDate": "2017-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -169,6 +169,13 @@
     },
     {
       "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "UI"
+      ]
+    },
+    {
+      "name": "Bootstrap",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "UI"
