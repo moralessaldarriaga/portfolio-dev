@@ -269,6 +269,17 @@
       ],
       "github": "#",
       "url": "https://www.cementoandino.com.pe/"
+    },
+    {
+      "name": "Servis Piura",
+      "isActive": true,
+      "description": "Cotizador de envios en mercaderia Piura",
+      "highlights": [
+        "Laravel",
+        "JavaScript"
+      ],
+      "github": "#",
+      "url": "https://cotizador.servispiura.com/"
     }
   ]
 }
