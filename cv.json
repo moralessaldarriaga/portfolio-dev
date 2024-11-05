@@ -258,6 +258,17 @@
       ],
       "github": "#",
       "url": "https://cementoapu.com/"
+    },
+    {
+      "name": "Cemento Andino",
+      "isActive": true,
+      "description": "Landing informativo para la campaña de Cemento Andino",
+      "highlights": [
+        "Laravel",
+        "JavaScript"
+      ],
+      "github": "#",
+      "url": "https://www.cementoandino.com.pe/"
     }
   ]
 }
